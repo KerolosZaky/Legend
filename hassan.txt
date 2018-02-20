@@ -1,6 +1,0 @@
-
-Hello Git 
-It is a good program.
-I like this program.
-Thank you
-
